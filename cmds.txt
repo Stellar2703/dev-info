@@ -1,0 +1,22 @@
+This is for cloning to VS code
+
+Step 1 : git clone http.........
+         \\connects git hub to vs code
+
+This for saving the changes that are made (Single File)
+
+Step 1 : git add "filename"
+         \\sends file to staging area
+Step 2 : git commit -m "message"
+         \\sends from staging area to clone folder
+Step 3 : git push origin main
+         \\updates the code in repository
+
+For saving the whole folder
+
+Step 1 : git add .
+         \\sends file to staging area
+Step 2 : git commit -m "message"
+         \\sends from staging area to clone folder
+Step 3 : git push origin main
+         \\updates the code in repository
