@@ -20,3 +20,17 @@ Step 2 : git commit -m "message"
          \\sends from staging area to clone folder
 Step 3 : git push origin main
          \\updates the code in repository
+
+
+For creating a new folder in the present repository or new repository
+
+Step 1 : git init
+         \\initializes a file
+Step 2 : git remote add origin https://.....
+         \\ to add the destination folder
+Step 3 : git add .
+         \\sends file to staging area
+Step 4 : git commit -m "message"
+         \\sends from staging area to clone folder
+Step 5 : git push origin master
+         \\updates the code in repository
