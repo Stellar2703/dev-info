@@ -39,3 +39,5 @@ To update the changes made in git to VS code
 
 Step 1 : git pull origin main
          \\ when you make changes in the git and want to  update those changes in VS code
+
+pull and push requests
